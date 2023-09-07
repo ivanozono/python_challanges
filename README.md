@@ -26,7 +26,7 @@ Write a function that returns a list with the first n numbers of the Fibonacci s
 ### 8 Bubble sort
 Implement the bubble sort algorithm.
 
-### Binary search
+### 9 Binary search
 Implement the binary search algorithm.
 
 ## Working with Data
