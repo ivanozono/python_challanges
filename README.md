@@ -30,7 +30,7 @@ Implement the bubble sort algorithm.
 Implement the binary search algorithm.
 
 ## Working with Data
-### Average
+### 10 Average
 Write a function that takes a list of numbers and calculates their average.
 
 ### Maximum and minimum
