@@ -1,0 +1,8 @@
+Es es un texto que utilizara una funcion para encontrar la frecuencia de palabras. 
+
+asd
+asd
+Manipulation
+Data
+frecuencia
+Data

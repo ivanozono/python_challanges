@@ -9,9 +9,6 @@ def average (lst):
 
 
 
-
-
-
 if __name__ == '__main__':
     lst = [29, 87, 56 , 77 , 53, 23]
     print(average(lst))

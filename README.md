@@ -33,18 +33,18 @@ Implement the binary search algorithm.
 ### 10 Average
 Write a function that takes a list of numbers and calculates their average.
 
-### Maximum and minimum
+### 11 Maximum and minimum
 Write functions that find the maximum and minimum value in a list of numbers.
 
-### Mode
+### 12 Mode
 Write a function that finds the mode in a list of numbers. The mode is the number that appears most frequently.
 
 ## Challenges
-### Merge Sort
+### 13 Merge Sort
 Implement the "merge sort" sorting algorithm.
 
-### Recursion
+### 14 Recursion
 Write a recursive function to calculate the nth term of the Fibonacci sequence.
 
-### File handling
+### 15 File handling
 Write a program that reads a text file and counts the frequency of each word in the file.
